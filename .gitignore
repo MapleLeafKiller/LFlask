@@ -1,0 +1,16 @@
+﻿LFlask/.idea/
+LFlask/venv/
+
+*.pyc
+
+LFlask/__pycache__/
+
+LFlask/instance/
+
+LFlask/.pytest_cache/
+LFlask/.coverage
+LFlask/htmlcov/
+
+LFlask/dist/
+LFlask/build/
+*.egg-info/

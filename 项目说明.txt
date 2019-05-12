@@ -1,0 +1,2 @@
+此为github同步目录
+LFlask:Flask学习项目，同时也是pycharm项目路径
